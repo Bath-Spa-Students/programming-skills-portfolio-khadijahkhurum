@@ -45,6 +45,11 @@ print("Python version:", python_version)
 ## Exercise 3: Print date and Time :ballot_box_with_check:
 
 Write a Python program to display the current date and time.
+import datetime
+current_datetime = datetime.datetime.now()
+formatted_datetime = current_datetime.strftime('%Y-%m-%d %H:%M:%S')
+print("Current Date and Time:", formatted_datetime)
+
 
 &nbsp;
 &nbsp;
