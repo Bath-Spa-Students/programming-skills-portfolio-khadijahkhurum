@@ -1,4 +1,6 @@
 
+
+
 list = ["Zuraira Faisal", "Muhammad Anwar", "Khursheed Anwar, Amray Abbas"]
 
 print("Due to a delay, I can only invite two people for dinner.")
@@ -13,5 +15,4 @@ for person in list:
 del list[0]  
 del list[0]  
 
-# Print the list to ensure it's empty
 print("Updated list of guests:", list)
