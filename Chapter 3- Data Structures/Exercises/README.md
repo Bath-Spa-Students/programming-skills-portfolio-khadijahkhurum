@@ -9,12 +9,8 @@ Once you have completed your solution you should make sure you commit and push y
 
 ## Exercise 1: Names :ballot_box_with_check:
 
-Store the names of a few of your friends in a list called names. Print each person’s name by accessing each element in the list, one at a
 
- time.
-
-
-
+Store the names of a few of your friends in a list called names. Print each person’s name by accessing each element in the list, one at a time.
 
 &nbsp;
 &nbsp;
@@ -23,9 +19,7 @@ Store the names of a few of your friends in a list called names. Print each pers
 
 Start with the list you used in Exercise 1, but instead of just
 
-printing each person’s name, print a message to them. The text of each message should be the same, but each message should be 
-
-personalized with the person’s name.
+printing each person’s name, print a message to them. The text of each message should be the same, but each message should be personalized with the person’s name.
 
 
 
@@ -35,21 +29,17 @@ personalized with the person’s name.
 
 ## Exercise 3: Your Own List :ballot_box_with_check:
 
-Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list
-
-to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
+Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list that stores several examples. Use your list to print a series of statements about these items, such as “I would like to own a Honda motorcycle.”
 
 &nbsp;
 &nbsp;
 
 ## Exercise 4: Guest List :ballot_box_with_check:
 
-If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d
-
-like to invite to dinner. Then use your list to print a message to each person, invitingthem to dinner.
+If you could invite anyone, living or deceased, to dinner, who would you invite? Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.
 
 &nbsp;
-&nbsp;
+&nbsp;'
 
 ## Exercise 5: Change Guest List :ballot_box_with_check:
 
