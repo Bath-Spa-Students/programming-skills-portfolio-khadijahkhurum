@@ -1,8 +1,8 @@
 # Create a dictionary of rivers and the countries they run through
 rivers = {
-    'Nile': 'Egypt',
-    'Amazon': 'Brazil',
-    'Yangtze': 'China'
+    'Congo': 'Africa ',
+    'Danube': 'Europe (touches multiple countries across the continent)',
+    'Mississippi': 'United States'
 }
 
 for river, country in rivers.items():
