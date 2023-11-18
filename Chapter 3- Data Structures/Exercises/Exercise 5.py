@@ -5,7 +5,7 @@ unavail = "Khursheed Anwar"
 print(f"Unfortunately, {unavail} can't make it to the dinner.")
 
 # Replace the guest who can't make it with a new person
-newG = "Amray Abbas"
+newG = "John Maverick"
 list.remove(unavail)
 list.append(newG)
 
