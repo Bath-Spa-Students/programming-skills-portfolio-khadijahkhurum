@@ -1,7 +1,7 @@
 
 
 
-list = ["Zuraira Faisal", "Muhammad Anwar", "Khursheed Anwar, Amray Abbas"]
+list = ["Zuraira Faisal", "Muhammad Anwar", "Khursheed Anwar, John Maverick"]
 
 print("Due to a delay, I can only invite two people for dinner.")
 
