@@ -9,9 +9,7 @@ elif alien_color == 'red':
     print("You earned 15 points!")
 else:
     print("Invalid alien color.")
-
-
-
+    
 #Version for the colour yellow 
 alien_color = 'yellow' # set a value for the variable alien_color
 
