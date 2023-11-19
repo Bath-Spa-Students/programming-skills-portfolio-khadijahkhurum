@@ -1,7 +1,7 @@
 # Creating a dictionary to store information about a person
 person_info = {
-    "first_name": "John",
-    "last_name": "Doe",
+    "first_name": "Sabrina",
+    "last_name": "Bartise",
     "age": 30,
     "city": "New York"
 }
